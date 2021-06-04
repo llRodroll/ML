@@ -11,3 +11,7 @@ Codes for the fundamentals of NN and ML:
 ## HR
 
 Series of codes following Google Developer codelab of TensorFlow, Keras and deep learning, without a PhD of hand write images.
+
+## TF
+
+Series of codes following Google Developer Pathway of NN with TensorFlow (https://developers.google.com/learn/pathways/tensorflow?hl=en)
